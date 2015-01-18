@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Specificity.MSTest</id>
+    <version>0.2.0.8</version>
+    <title>Specificity - MSTest</title>
+    <authors>William E. Kempf</authors>
+    <owners>William E. Kempf</owners>
+    <projectUrl>http://specificity.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Specificity is a unit test fluent assertion library.</description>
+    <summary>Specificity is a unit test fluent assertion library.</summary>
+  </metadata>
+</package>
